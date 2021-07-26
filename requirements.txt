@@ -1,0 +1,2 @@
+# Simply versions diff visualization
+nbdime==3.1.0
