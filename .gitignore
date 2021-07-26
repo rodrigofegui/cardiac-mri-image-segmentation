@@ -1,0 +1,11 @@
+# Editor control
+.vscode
+
+
+# Automatically created cache files
+__pycache__
+*pyc
+
+
+# Heavy dir
+ignore_*/
