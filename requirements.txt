@@ -1,2 +1,4 @@
+autopep8==1.5.7
+
 # Simply versions diff visualization
 nbdime==3.1.0
