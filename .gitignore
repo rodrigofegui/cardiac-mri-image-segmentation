@@ -13,3 +13,7 @@ __pycache__
 
 # Heavy dir
 ignore_*/
+
+
+# Decoupling control
+.env
